@@ -1,0 +1,16 @@
+<layer>
+  <name>m1b_points</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-55e8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6d4d4993:1735313d2da:-780c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-55e9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-14 17:00:51.402 UTC</dateCreated>
+</layer>

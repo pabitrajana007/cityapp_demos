@@ -1,0 +1,48 @@
+/* @title Población por unidad territorial */
+/* @title 0-100*/
+[Total_pobl > 0 AND  Total_pobl < 100 ] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ffeeff;
+  fill-opacity: 0.5;
+}
+
+/* @title 100-200*/
+[Total_pobl >= 100  AND Total_pobl < 200] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ffccff;
+  fill-opacity: 0.5;
+}
+
+/* @title 200-400*/
+[Total_pobl >=200 AND Total_pobl < 400] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ff77ff;
+  fill-opacity: 0.5;
+}
+
+/* @title 400-600*/
+[Total_pobl >=400 AND Total_pobl < 600] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ff00ff;
+  fill-opacity: 0.5;
+}
+
+/* @title 600-800*/
+[Total_pobl >=600 AND Total_pobl < 800] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ff2288;
+  fill-opacity: 0.5;
+}
+
+/* @title 800-1100*/
+[Total_pobl >=800 AND Total_pobl < 1100] {
+  stroke: #880088;
+  stroke-width: 0.1;
+  fill: #ff4400;
+  fill-opacity: 0.5;
+}

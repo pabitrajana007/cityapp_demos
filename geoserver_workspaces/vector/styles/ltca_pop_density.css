@@ -1,0 +1,48 @@
+/* @title Densidad de población por unidad territorial */
+/* @title 0-100*/
+[Densi_km > 0 AND  Densi_km < 100 ] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ffffee;
+  fill-opacity: 0.5;
+}
+
+/* @title 200-250*/
+[Densi_km >= 100  AND Densi_km < 250] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ffffaa;
+  fill-opacity: 0.5;
+}
+
+/* @title 250-500*/
+[Densi_km >=250 AND Densi_km < 500] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ffdd66;
+  fill-opacity: 0.5;
+}
+
+/* @title 500-1500*/
+[Densi_km >500 AND Densi_km < 1500] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ffa800;
+  fill-opacity: 0.5;
+}
+
+/* @title 1500-5000*/
+[Densi_km >=1500 AND Densi_km < 5000] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ff3300;
+  fill-opacity: 0.5;
+}
+
+/* @title 5000-25000*/
+[Densi_km >=5000 AND Densi_km < 25000] {
+  stroke: #888800;
+  stroke-width: 0.1;
+  fill: #ff0066;
+  fill-opacity: 0.5;
+}

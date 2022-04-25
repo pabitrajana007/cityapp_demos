@@ -1,0 +1,49 @@
+/* @title Bubaneshwar slum households ownership */
+
+/* @title Patta */
+[house_tenure_status = 'Patta'] {
+  stroke: #045716;
+  stroke-width: 0.5;
+  fill: #12b340;
+  fill-opacity: 1;
+}
+
+/* @title Possession Certificate/Occupancy Right */
+[house_tenure_status = 'Possession Certificate/Occupancy Right'] {
+  stroke: #05ba02;
+  stroke-width: 0.5;
+  fill: #9ef57c;
+  fill-opacity: 1;
+}
+
+/* @title  Rented */
+[house_tenure_status = 'Rented'] {
+  stroke: #9f9700;
+  stroke-width: 0.5;
+  fill: #ffe8a5;
+  fill-opacity: 1;
+}
+
+/* @title Public Land Enchroched */
+[house_tenure_status = 'Public Land Enchroched'] {
+  stroke: #aa6666;
+  stroke-width: 0.5;
+  fill: #ffdddd;
+  fill-opacity: 1;
+}
+
+/* @title Private Land Encroached */
+[house_tenure_status = 'Private Land Encroached'] {
+  stroke: #6c0001;
+  stroke-width: 0.5;
+  fill: #d7191c;
+  fill-opacity: 1;
+}
+
+/* @title others */
+[house_tenure_status = 'others'] {
+   stroke: #8888ee;
+  stroke-width: 0.5;
+  fill: #9999ff;
+  fill-opacity: 1;
+}

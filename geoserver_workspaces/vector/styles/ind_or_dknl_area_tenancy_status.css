@@ -1,0 +1,37 @@
+/* @title Dhenkanal tenancy status from dknl revenue plot map  */
+
+
+/* @title Government owned */
+[TENANCY ='Government' ]{
+    stroke: #db0;
+    stroke-width: 0.3;
+    fill: #fffe88;
+  	fill-opacity: 0.2;
+}
+
+/* @title Private owned */
+[TENANCY ='Private' ]{
+    stroke: #00d;
+    stroke-width: 0.3;
+    fill: #ddf;
+    fill-opacity: 0.2;
+
+}
+
+/* @title Conversion needed */
+[TENANCY ='Conversion Needed' ]{
+    stroke: #a0a;
+    stroke-width: 4;
+    fill: #faf;
+    fill-opacity: 0.1;
+
+}
+
+/* @title No data */
+[TENANCY = 'no data' ]{
+    stroke: #000;
+    stroke-width: 1;
+    fill: #f8f8f8;
+    fill-opacity: 0.1;
+
+}

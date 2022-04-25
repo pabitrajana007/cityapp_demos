@@ -1,0 +1,26 @@
+/* Odisha estimated groundwater level*/
+/* @title 0 - -2m */
+[water_level = -125]  {
+  fill: #66f;
+  fill-opacity: 0.7;
+}
+
+/* @title -2m - -5m */
+[water_level = -250]  {
+  fill: #fe3;
+  fill-opacity: 0.7;
+}
+
+
+/* @title -5m - -10m */
+[water_level = -750]  {
+  fill: #3d3;
+  fill-opacity: 0.7;
+}
+
+
+/* @title -10m - */
+[water_level < -750]  {
+  fill: #060;
+  fill-opacity: 0.7;
+}

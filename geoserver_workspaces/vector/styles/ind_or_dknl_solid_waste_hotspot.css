@@ -1,0 +1,11 @@
+/* @title Dhenkanal solid waste hotspot  */
+* {
+   mark: symbol(cross);
+   :mark {
+   size:20;
+   fill: #ff0;
+   stroke:#000;
+   stroke-width:2;
+   z-index: 1;
+   }
+}

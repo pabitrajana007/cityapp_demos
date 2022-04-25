@@ -1,0 +1,73 @@
+/* @title Water Supply Infrastructure */
+
+/* @title  Bore Well */
+[WSI_TYPE = 'Bore Well'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #880;
+  	stroke-width: 1;
+  	fill: #ff8;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Open Well */
+[WSI_TYPE = 'Open Well'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #840;
+  	stroke-width: 1;
+  	fill: #fc0;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Public Stand Post */
+[WSI_TYPE = 'Public Stand Post'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 1;
+  	fill: #fba;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Pump House */
+[WSI_TYPE = 'Pump House'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 1;
+  	fill: #f22;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Reservoir */
+[WSI_TYPE = 'Reservoir'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #fcf;
+  	fill-opacity: 1;
+	}
+}
+/* @title  Underground Reservoir */
+[WSI_TYPE = 'Underground Reservoir'] {
+  mark: symbol(circle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #a0a;
+  	fill-opacity: 1;
+	}
+}

@@ -1,0 +1,16 @@
+<layer>
+  <name>m1_stricken_area</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-5ae6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72b1cc0:179ccb4a7d6:-5aec</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-5ae7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-14 04:04:20.476 UTC</dateCreated>
+</layer>

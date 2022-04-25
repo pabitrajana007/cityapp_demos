@@ -1,0 +1,12 @@
+/* Panch names in Tehsil Dhenkanal */
+
+*{
+    stroke: #ccc;
+    stroke-width: 2;
+  	fill:#444;
+	fill-opacity:0.3;
+    label: [Name_Panch];
+  	font-weight: bold;
+  	font-size: 15;
+  	font-style: oblique;
+}

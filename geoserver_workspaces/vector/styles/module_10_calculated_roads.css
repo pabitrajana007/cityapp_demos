@@ -1,0 +1,17 @@
+/* @title Calculated roads for IAUAI project area */
+
+/* @title  Main axis road*/
+[@scale < 10000000][level =1] {
+  stroke: #cb3900;
+  stroke-width: 8;
+  stroke-linecap: round;
+  z-index: 1;
+}    
+
+/* @title  Secondary axis road*/
+[@scale < 10000000][level =2] {
+  stroke: #cb3900;
+  stroke-width: 4;
+  stroke-linecap: round;
+  z-index: 1;
+}

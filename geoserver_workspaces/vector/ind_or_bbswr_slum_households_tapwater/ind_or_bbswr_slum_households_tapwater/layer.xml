@@ -1,0 +1,17 @@
+<layer>
+  <name>ind_or_bbswr_slum_households_tapwater</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-68f6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7078b211:179a97428e6:-7fe1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-68f7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 08:24:45.342 UTC</dateCreated>
+  <dateModified>2021-06-12 08:27:20.610 UTC</dateModified>
+</layer>

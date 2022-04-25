@@ -1,0 +1,17 @@
+<layer>
+  <name>ind_or_bbswr_empty_places_ownership</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6923</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-343c255e:17036557ae0:-7edb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-6924</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 06:43:19.748 UTC</dateCreated>
+  <dateModified>2021-06-12 06:44:41.945 UTC</dateModified>
+</layer>

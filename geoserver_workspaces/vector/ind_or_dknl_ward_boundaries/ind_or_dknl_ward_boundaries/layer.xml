@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_ward_boundaries</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-70cc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7f41</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-70cd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-09 18:24:16.185 UTC</dateCreated>
+</layer>

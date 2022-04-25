@@ -1,0 +1,14 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--54b0de5f:177884cac0f:-7fdc</id>
+  <name>n22_e087_1arc_v3</name>
+  <description>n22_e087_1arc_v3</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-02-09 20:03:58.881 UTC</dateCreated>
+  <dateModified>2021-06-09 17:11:15.923 UTC</dateModified>
+  <url>/usr/share/geoserver/data_dir/data/cityapp/ind/or/state_wide/dem/n22_e087_1arc_v3.tif</url>
+</coverageStore>

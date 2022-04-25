@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_district_dknl_sanitation_survey</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6b70</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--54b0de5f:177884cac0f:-1615</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-6b71</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-10 22:18:51.511 UTC</dateCreated>
+</layer>

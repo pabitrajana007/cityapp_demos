@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_landuse_landcover</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-70c1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7fa1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-70c2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-09 18:27:31.22 UTC</dateCreated>
+</layer>

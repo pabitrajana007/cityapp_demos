@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_public_toilets</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-7097</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7c5b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-7098</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-10 05:25:09.413 UTC</dateCreated>
+</layer>

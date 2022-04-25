@@ -1,0 +1,16 @@
+<layer>
+  <name>n22_e083_1arc_v3</name>
+  <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fe6</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--54b0de5f:177884cac0f:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-09 20:00:33.680 UTC</dateCreated>
+</layer>

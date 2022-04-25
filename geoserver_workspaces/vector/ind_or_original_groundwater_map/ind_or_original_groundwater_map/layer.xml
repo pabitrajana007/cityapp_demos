@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_original_groundwater_map</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-639d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--52e70193:1778ccef41e:-75c9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-639e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 15:49:15.228 UTC</dateCreated>
+</layer>

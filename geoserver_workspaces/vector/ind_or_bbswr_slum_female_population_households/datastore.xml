@@ -1,0 +1,20 @@
+<dataStore>
+  <id>DataStoreInfoImpl-72b1cc0:179ccb4a7d6:-694a</id>
+  <name>ind_or_bbswr_slum_female_population_households</name>
+  <description>ind_or_bbswr_slum_female_population_households</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/bin/../data_dir/data/cityapp/ind/or/bbswr/ind_or_bbswr_slum_households.gpkg</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-06-12 06:05:36.475 UTC</dateCreated>
+</dataStore>

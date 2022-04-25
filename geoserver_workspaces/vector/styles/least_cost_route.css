@@ -1,0 +1,8 @@
+/* @title Least cost route */
+[@scale < 10000000]
+{
+  stroke: #ff00ff, #ffffcc;
+  stroke-width: 5, 1.5;
+  stroke-linecap: round;
+  z-index: 1, 2;
+}

@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_bbswr_slum_households_bathrooms</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-68fc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37b6ddcf:16fcd74ff28:-7ce6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-68fd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 08:20:38.200 UTC</dateCreated>
+</layer>

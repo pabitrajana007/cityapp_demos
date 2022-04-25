@@ -1,0 +1,38 @@
+/* @title Dhenkanal waste water treatment hotspot */
+
+/* @title  Open Defecation Site */
+[WWTH_TYPE = 'Open Defecation Site'] {
+    mark: symbol(x);
+  	mark-size: 20;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #606;
+  	fill-opacity: 1;
+	}
+}
+ 
+
+/* @title  Sewage Dumping Site(Drain) */
+[WWTH_TYPE = 'Sewage Dumping Site(Drain)'] {
+ mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #f0f;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Fecal Sludge Dumping */
+[WWTH_TYPE = 'Fecal Sludge Dumping'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #fbf;
+  	fill-opacity: 1;
+	}
+}

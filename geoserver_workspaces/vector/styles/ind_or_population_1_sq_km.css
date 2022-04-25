@@ -1,0 +1,75 @@
+/* Population by 1 sqare km*/
+/* @title 0 */
+[population = 0] {
+  fill: #fefefe;
+  fill-opacity: 0.8;
+}
+
+/* @title 1 - 10 */
+[population > 0] [population < 10] {
+  fill: #0a0;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 10 - 30 */
+[population > 10] [population < 30] {
+  fill: #4f4;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 30 - 80 */
+[population > 30] [population < 80] {
+  fill: #cf0;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 80 - 130 */
+[population > 80] [population < 130] {
+  fill: #ff0;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 130 - 220 */
+[population > 130] [population < 220] {
+  fill: #fc0;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 220 - 500 */
+[population > 220] [population < 500] {
+  fill: #f88;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 500 - 1000 */
+[population > 500] [population < 1000] {
+  fill: #f8f;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 1000 - 5000 */
+[population > 1000] [population < 5000] {
+  fill: #f0f;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 5000 - 10000 */
+[population > 5000] [population < 10000] {
+  fill: #b0b;
+  fill-opacity: 0.8;
+}
+
+
+/* @title 10000 - 31900 */
+[population > 10000] [population < 31900] {
+  fill: #00c;
+  fill-opacity: 0.8;
+}

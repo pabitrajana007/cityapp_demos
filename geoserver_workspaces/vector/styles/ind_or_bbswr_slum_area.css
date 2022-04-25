@@ -1,0 +1,20 @@
+/* @title Bhubaneshwar slums */
+
+/* @title Slum */
+*{
+  stroke: #f4a;
+  stroke-width: 2;
+  fill: #dda;
+  fill-opacity: 0.2;
+  
+    label: [Name];
+   	font-family: Arial;
+   	font-size: 12px;
+   	font-style: normal;
+   	font-weight: normal;
+   	font-fill: #000;
+   	label-auto-wrap: 100;
+   	label-max-displacement: 10;
+    
+ 
+}

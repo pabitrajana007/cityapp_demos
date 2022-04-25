@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_bbswr_slums</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6959</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-343c255e:17036557ae0:-7e5a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-695a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-11 13:16:20.785 UTC</dateCreated>
+</layer>

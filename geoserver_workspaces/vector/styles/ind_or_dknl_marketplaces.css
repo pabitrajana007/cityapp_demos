@@ -1,0 +1,10 @@
+/* @title Dhenkanal market and commercial places  */
+* {
+   mark: symbol(circle);
+   :mark {
+   size:20;
+   fill: #afa;
+   stroke:#080;
+   stroke-width:3;
+   }
+}

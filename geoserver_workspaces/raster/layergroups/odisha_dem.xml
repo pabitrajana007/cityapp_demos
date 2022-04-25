@@ -1,0 +1,194 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--54b0de5f:177884cac0f:-7fff</id>
+  <name>odisha_dem</name>
+  <mode>SINGLE</mode>
+  <title>odisha_dem</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f32</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f1a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e8b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e6d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e6a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e70</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e31</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e2e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e2b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e28</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e25</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e22</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6c4e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7ff8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--126b8d2d:1776d699497:-7f99</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--126b8d2d:1776d699497:-7f96</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--126b8d2d:1776d699497:-7f93</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--126b8d2d:1776d699497:-7f90</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--126b8d2d:1776d699497:-7f8c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7ff2</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7ff5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fef</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fec</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fe6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fe3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fe0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--54b0de5f:177884cac0f:-7fda</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>79.99986111111112</minx>
+    <maxx>90.0001388888889</maxx>
+    <miny>16.999861111111112</miny>
+    <maxy>23.00013888888889</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-09 19:39:38.900 UTC</dateCreated>
+  <dateModified>2021-02-09 20:15:34.894 UTC</dateModified>
+</layerGroup>

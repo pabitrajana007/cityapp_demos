@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_groundwater_3m</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-63a3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bb0b972:1778f990dc7:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-63a4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 15:46:52.403 UTC</dateCreated>
+</layer>

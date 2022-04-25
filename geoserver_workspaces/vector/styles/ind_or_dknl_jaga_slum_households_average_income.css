@@ -1,0 +1,49 @@
+/* @title Dhenkanal slums average yearly incomes */
+
+/* @title 0 -- 45 000 INR */
+[AVERAGE_AN >= 0] [AVERAGE_AN < 45000] {
+  stroke: #6c0001;
+  stroke-width: 0.5;
+  fill: #b00;
+  fill-opacity: 1;
+}
+
+/* @title 45 000 -- 100 000 INR */
+[AVERAGE_AN >= 45000] [AVERAGE_AN < 100000] {
+  stroke: #a53c04;
+  stroke-width: 0.5;
+  fill: #f66;
+  fill-opacity: 1;
+}
+
+/* @title 100 000 -- 250 000 INR */
+[AVERAGE_AN >= 100000] [AVERAGE_AN < 250000] {
+  stroke: #b57d0e;
+  stroke-width: 0.5;
+  fill: #fc0;
+  fill-opacity: 1;
+}
+
+/* @title 250 000 -- 600 000 INR */
+[AVERAGE_AN >= 250000] [AVERAGE_AN < 600000] {
+  stroke: #9f9700;
+  stroke-width: 0.5;
+  fill: #ff8;
+  fill-opacity: 1;
+}
+
+/* @title 600 000 -- 1 000 000 INR */
+[AVERAGE_AN >= 600000] [AVERAGE_AN < 1000000] {
+  stroke: #05ba02;
+  stroke-width: 0.5;
+  fill: #8f8;
+  fill-opacity: 1;
+}
+
+/* @title 1 000 000 -- 5 000 000 INR */
+[AVERAGE_AN >= 1000000] [AVERAGE_AN < 5000000] {
+  stroke: #045716;
+  stroke-width: 0.5;
+  fill: #0a0;
+  fill-opacity: 1;
+}

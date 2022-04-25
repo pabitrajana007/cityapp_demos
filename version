@@ -1,0 +1,4 @@
+version: 1.11
+Base branch, with Odisha, Dhenkanal and Bhubaneshwahr datasets.
+Dhenkanal houses are dissolved for the tenancy map.
+Smartphone compatibility: 0.1

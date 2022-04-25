@@ -1,0 +1,58 @@
+/* @title Dhenkanal slums households */
+
+/* @title  No */
+[TYPE_OF_WA = 'NO'] {
+   stroke: #800;
+  stroke-width: 0.2;
+  fill: #f55;
+  fill-opacity: 1;
+}
+
+/* @title  Thatch */
+[TYPE_OF_WA = 'THATCH'] {
+   stroke: #800;
+  stroke-width: 0.2;
+  fill: #f9a;
+  fill-opacity: 1;
+}
+
+/* @title  Mud*/
+[TYPE_OF_WA = 'MUD'] {
+  stroke: #880;
+  stroke-width: 0.2;
+  fill: #fc8;
+  fill-opacity: 1;
+}
+
+/* @title  Polythin */
+[TYPE_OF_WA = 'POLYTHIN'] {
+   stroke: #880;
+  stroke-width: 0.2;
+  fill: #ff4;
+  fill-opacity: 1;
+}
+
+/* @title  Stone */
+[TYPE_OF_WA = 'STONE' or TYPE_OF_WA = 'STONE WALL'] {
+   stroke: #080;
+  stroke-width: 0.2;
+  fill: #bf8;
+  fill-opacity: 1;
+}
+
+/* @title  Concrete */
+[TYPE_OF_WA = 'CONCRETE'] {
+   stroke: #080;
+  stroke-width: 0.2;
+  fill: #8d0;
+  fill-opacity: 1;
+}
+
+
+/* @title  Brick */
+[TYPE_OF_WA = 'Brick'or TYPE_OF_WA = 'BRICK'] {
+   stroke: #080;
+  stroke-width: 0.2;
+  fill: #080;
+  fill-opacity: 1;
+}

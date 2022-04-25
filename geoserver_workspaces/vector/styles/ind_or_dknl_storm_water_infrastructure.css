@@ -1,0 +1,35 @@
+/* @title Dhenkanal storm water infrastructure */
+
+/* @title Double Sided Pucca Drain */
+[DRN_TYPE ='Double Sided Pucca Drain'] 
+{
+  stroke: #009;
+  stroke-width: 3;
+  stroke-linecap: round;
+  z-index: 1;
+}    
+
+/* @title  Double Sided Kutcha Drains*/
+[DRN_TYPE ='Double Sides Kutcha Drains'] {
+  stroke: #0a0;
+  stroke-width: 3;
+  stroke-linecap: round;
+  z-index: 1;
+}    
+
+/* @title Single Sided Pucca Drain*/
+[DRN_TYPE ='Single Sided Pucca Drain'] {
+  stroke: #009;
+  stroke-width: 1;
+  stroke-linecap: round;
+  z-index: 1;
+}
+
+/* @title Single Sided Kutcha Drain*/
+[DRN_TYPE ='Single Sided Kutcha Drain'] 
+{
+  stroke: #0a0;
+  stroke-width: 1;
+  stroke-linecap: round;
+  z-index: 1;
+}

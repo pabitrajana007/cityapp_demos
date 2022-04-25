@@ -1,0 +1,13 @@
+/* @title Yes */
+[DOES_THE_F = 'YES' or DOES_THE_F = 'yes']{
+  stroke: #080;
+  stroke-width: 0.5;
+  fill: #afa;
+}
+
+/* @title No */
+[DOES_THE_F = 'NO']{
+  stroke: #800;
+  stroke-width: 0.5;
+  fill: #f88;
+}

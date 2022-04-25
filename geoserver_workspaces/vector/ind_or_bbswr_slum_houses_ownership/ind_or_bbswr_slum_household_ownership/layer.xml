@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_bbswr_slum_household_ownership</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6919</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-343c255e:17036557ae0:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-691a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 07:27:18.247 UTC</dateCreated>
+</layer>

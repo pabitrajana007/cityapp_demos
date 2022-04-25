@@ -1,0 +1,21 @@
+<layer>
+  <name>n19_e086_1arc_v3</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e22</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-343c255e:17036557ae0:-7edc</id>
+    </style>
+  </styles>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--4072d3e9:17712722ddb:-6e23</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-26 05:08:41.820 UTC</dateCreated>
+</layer>

@@ -1,0 +1,10 @@
+/* @title IAUAI endpoints of main road  */
+* {
+   mark: symbol(cross);
+   :mark {
+   size:20;
+   fill: #ffccff;
+   stroke:#606;
+   stroke-width:0.5;
+   }
+}

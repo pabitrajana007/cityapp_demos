@@ -1,0 +1,14 @@
+/* Odisha estimated groundwater level*/
+/* @title Less than 3m */
+[water_level = 0] {
+  fill: #bbf;
+  fill-opacity: 0.3;
+}
+
+/* @title More than 3m */
+[water_level = 1] {
+  stroke: #080;
+  stroke-width: 0.5;
+  fill: #bfb;
+  fill-opacity: 0.3;
+}

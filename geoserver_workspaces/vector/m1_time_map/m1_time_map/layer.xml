@@ -1,0 +1,17 @@
+<layer>
+  <name>m1_time_map</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-5ae1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6d4d4993:1735313d2da:-7c46</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-5ae2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-14 04:05:10.991 UTC</dateCreated>
+  <dateModified>2021-06-14 04:08:44.712 UTC</dateModified>
+</layer>

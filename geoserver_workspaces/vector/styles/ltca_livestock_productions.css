@@ -1,0 +1,141 @@
+/* @title  Apícola */ [PECUARIO = 'Apícola'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 1.5;
+  	fill: #ffdd66;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Huevos-Avícola */ [PECUARIO = 'Huevos-Avícola'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 1.5;
+  	fill: #ffff00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Lana-Camélido */ [PECUARIO = 'Lana-Camélido'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 1.5;
+  	fill: #ccccff;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Lana-Ovino */ [PECUARIO = 'Lana-Ovino'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 1.5;
+  	fill: #8888ff;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Leche-Bovinos */ [PECUARIO = 'Leche-Bovinos'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 1;
+  	fill: #ffffff;
+  	fill-opacity: 1;
+	}
+}
+/* @title  Leche-Ovino */ [PECUARIO = 'Leche-Ovino'] {
+  mark: symbol(cross);
+  mark-size: 20;
+  	:mark{
+  	stroke: #000088;
+  	stroke-width: 2.5;
+  	fill: #fff;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Carne-Avícola */ [PECUARIO = 'Carne-Avícola'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #ffaa00;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Carne-Cuy */ [PECUARIO = 'Carne-Cuy'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #ffdade;
+  	fill-opacity: 1;
+	}
+}
+/* @title  Carne-Porcino */ [PECUARIO = 'Carne-Porcino'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #f88;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Carne-Bovinos */ [PECUARIO = 'Carne-Bovinos'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #c44;
+  	fill-opacity: 1;
+	}
+}
+/* @title  Pie de Cria-Bovinos */ [PECUARIO = 'Pie de Cria-Bovinos'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #ddd;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Pie de Cria-Cuy */ [PECUARIO = 'Pie de Cria-Cuy'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #888;
+  	fill-opacity: 1;
+	}
+}
+/* @title  Pie de Cria-Porcinos */ [PECUARIO = 'Pie de Cria-Porcinos'] {
+  mark: symbol(x);
+  mark-size: 20;
+  	:mark{
+  	stroke: #880000;
+  	stroke-width: 1;
+  	fill: #444;
+  	fill-opacity: 1;
+	}
+}

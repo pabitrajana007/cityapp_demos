@@ -1,0 +1,478 @@
+/* vegetables*/
+
+/* @title  Acelga */ [RUBRO = 'Acelga'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #ffd8ce;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Lechuga */[RUBRO = 'Lechuga'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #ffd8ce;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Brócoli */[RUBRO = 'Brócoli'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #ec9ba4;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Chocho */[RUBRO = 'Chocho'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #ec9ba4;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Fréjol */[RUBRO = 'Fréjol'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #bf819e;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Haba Tierna */[RUBRO = 'Haba Tierna'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #bf819e;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Tomate De Árbol */[RUBRO = 'Tomate De Árbol'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #ff7b59;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Melloco */[RUBRO = 'Melloco'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #ff7b59;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Oca */[RUBRO = 'Oca'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #f10d0c;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Papa */[RUBRO = 'Papa'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #f10d0c;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Zapallo (Calabaza) */[RUBRO = 'Zapallo (Calabaza)'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #a1467e;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Apio */[RUBRO = 'Apio'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #a1467e;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Cebolla Blanca */[RUBRO = 'Cebolla Blanca'] {
+  mark: symbol(circle);
+  mark-size: 20;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2;
+  	fill: #bf0041;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Ajo */[RUBRO = 'Ajo'] {
+  mark: symbol(circle);
+  mark-size: 20,13;
+  	:mark{
+  	stroke: #660066;
+  	stroke-width: 2,1;
+  	fill: #bf0041;
+  	fill-opacity: 1;
+	}
+}
+
+/* fruits */
+
+
+/* @title Banano De Exportación */[RUBRO = 'Banano De Exportación'] {
+  mark: symbol(square);
+  mark-size: 19;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 1;
+  	fill: #ffbf00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Musáceas */[RUBRO = 'Musáceas'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 19,12;
+  	:mark{
+  	stroke: #000000,#884400;
+  	stroke-width: 1,1;
+  	fill: #ffbf00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Plátano */[RUBRO = 'Plátano'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 19,6;
+  	:mark{
+  	stroke: #000000,#884400;
+  	stroke-width: 1,1;
+  	fill: #ffbf00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Orito */[RUBRO = 'Orito'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 19,2;
+  	:mark{
+  	stroke: #000000,#884400;
+  	stroke-width: 1,1;
+  	fill: #ffbf00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Naranja */[RUBRO = 'Naranja'] {
+  mark: symbol(square);
+  mark-size: 19;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 1;
+  	fill: #ffee00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Naranjilla */[RUBRO = 'Naranjilla'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 19,12;
+  	:mark{
+  	stroke: #000000,#884400;
+  	stroke-width: 1,1;
+  	fill: #ffee00;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Aguacate */[RUBRO = 'Aguacate'] {
+  mark: symbol(square);
+  mark-size: 19;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 1;
+  	fill: #dedce6;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Uvilla */[RUBRO = 'Uvilla'] {
+  mark: symbol(square);
+  mark-size: 19;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 1;
+  	fill: #b4c7dc;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Huerto Hortícola */[RUBRO = 'Huerto Hortícola'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 19;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 1;
+  	fill: #66aadd;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* grass*/
+
+
+/* @title Arveja */[RUBRO = 'Arveja'] {
+  mark: symbol(hexagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #008800;
+  	stroke-width: 2;
+  	fill: #eeffee;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Alfalfa */[RUBRO = 'Alfalfa'] {
+  mark: symbol(hexagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #008800;
+  	stroke-width: 2;
+  	fill: #cceecc;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Pasto Azul */[RUBRO = 'Pasto Azul'] {
+  mark: symbol(hexagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #008800;
+  	stroke-width: 2;
+  	fill: #03ee2a;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Pasto Mixto */[RUBRO = 'Pasto Mixto'] {
+  mark: symbol(hexagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #008800;
+  	stroke-width: 2;
+  	fill: #03992a;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Astromellas */[RUBRO = 'Astromellas'] {
+  mark: symbol(hexagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #008800;
+  	stroke-width: 2;
+  	fill: #03662a;
+  	fill-opacity: 1;
+	}
+}
+
+
+/*cereales */
+
+
+/* @title Quinua */[RUBRO = 'Quinua'] {
+  mark: symbol(square);
+  mark-size: 14;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2;
+  	fill: #ffffd7;
+  	fill-opacity: 1;
+    rotation: 45;
+	}
+}
+
+
+/* @title Maíz Duro Choclo */[RUBRO = 'Maíz Duro Choclo'] {
+  mark: symbol(square);
+  mark-size: 14;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2;
+  	fill: #ffff22;
+  	fill-opacity: 1;
+    rotation: 45;
+	}
+}
+
+/* @title Maíz Duro Seco */[RUBRO = 'Maíz Duro Seco'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 14,6;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2,1;
+  	fill: #ffff22;
+  	fill-opacity: 1;
+    rotation: 45,45;
+	}
+}
+
+/* @title Maíz Forrajero */[RUBRO = 'Maíz Forrajero'] {
+  mark: symbol(square),symbol(square);
+  mark-size: 14,2;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2,1;
+  	fill: #ffff22;
+  	fill-opacity: 1;
+    rotation: 45,45;
+	}
+}
+
+/* @title Trigo */[RUBRO = 'Trigo'] {
+  mark: symbol(square);
+  mark-size: 14;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2,1;
+  	fill: #e6e905;
+  	fill-opacity: 1;
+    rotation: 45;
+	}
+}
+
+/* @title Cebada */[RUBRO = 'Cebada'] {
+  mark: symbol(square);
+  mark-size: 14;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2,1;
+  	fill: #acb20c;
+  	fill-opacity: 1;
+    rotation: 45;
+	}
+}
+
+/* @title Avena */[RUBRO = 'Avena'] {
+  mark: symbol(square);
+  mark-size: 14;
+  	:mark{
+  	stroke: #888800;
+  	stroke-width: 2,1;
+  	fill: #706e0c;
+  	fill-opacity: 1;
+    rotation: 45;
+	}
+}
+
+
+
+/* other */
+
+
+/* @title Caña De Azúcar */[RUBRO = 'Caña De Azúcar'] {
+  mark: symbol(pentagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2;
+  	fill: #eeeeee;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Caña De Azúcar / Otros Usos */[RUBRO = 'Caña De Azúcar / Otros Usos'] {
+  mark: symbol(pentagon),symbol(pentagon);
+  mark-size: 20,7;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2,1;
+  	fill: #eeeeee;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Vainilla */[RUBRO = 'Vainilla'] {
+  mark: symbol(pentagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2;
+  	fill: #bbbbbb;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Cacao */[RUBRO = 'Cacao'] {
+  mark: symbol(pentagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2;
+  	fill: #999944;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Café */[RUBRO = 'Café'] {
+  mark: symbol(pentagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2;
+  	fill: #666677;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Yuca */[RUBRO = 'Yuca'] {
+  mark: symbol(pentagon);
+  mark-size: 20;
+  	:mark{
+  	stroke: #666666;
+  	stroke-width: 2;
+  	fill: #551111;
+  	fill-opacity: 1;
+	}
+}

@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_bbswr_city_area</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6967</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37b6ddcf:16fcd74ff28:-7ce1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-6968</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-11 12:58:32.760 UTC</dateCreated>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_lands_tenancy_types</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-6de3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1fc3369a:177cdaa8c64:-7149</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-6de4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-10 08:22:32.239 UTC</dateCreated>
+</layer>

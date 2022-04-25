@@ -1,0 +1,41 @@
+/* @title National Highway-42 */
+[@scale < 10000000][RD_TYPE ='06-National Highway-42'] 
+{
+  stroke: #f6f;
+  stroke-width: 8;
+  stroke-linecap: round;
+  z-index: 1;
+}    
+
+/* @title  State Highway*/
+[@scale < 10000000][RD_TYPE ='05-State Highway'] {
+  stroke: #cb3900;
+  stroke-width: 6;
+  stroke-linecap: round;
+  z-index: 1;
+}
+
+/* @title Arterial Road*/
+[@scale < 600000][RD_TYPE='01-Arterial Road']{
+  stroke: #cb3900;
+  stroke-width: 3;
+  stroke-linecap: round;
+  z-index: 1;
+}
+
+
+/* @title Sub Arterial Road*/
+[@scale < 250000][RD_TYPE='02-Sub Arterial Road']{
+  stroke: #cbaa00;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  z-index: 1;
+}
+
+/* @title Local Street*/
+[@scale < 20000][RD_TYPE='04-Local Street']{
+  stroke: #666;
+  stroke-width: 1;
+  stroke-linecap: round;
+  z-index: 1;
+}

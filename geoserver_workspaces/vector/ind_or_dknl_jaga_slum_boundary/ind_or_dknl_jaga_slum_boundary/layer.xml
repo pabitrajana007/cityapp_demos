@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_jaga_slum_boundary</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-7081</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7f78</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-7082</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-10 05:34:50.653 UTC</dateCreated>
+</layer>

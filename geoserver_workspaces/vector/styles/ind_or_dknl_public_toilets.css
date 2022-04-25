@@ -1,0 +1,12 @@
+/* @title Dhenkanal public toilets */
+
+* {
+    mark: symbol(square);
+  	mark-size: 20;
+  	:mark{
+  	stroke: #066;
+  	stroke-width: 2;
+  	fill: #7bb;
+  	fill-opacity: 1;
+	}
+}

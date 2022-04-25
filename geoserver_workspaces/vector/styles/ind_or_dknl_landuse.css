@@ -1,0 +1,50 @@
+/* @title Dhenkanal city landuse and landcover */
+
+/* @title Agricultural */
+[LU_TYPE ='Agricultural' ]{
+    stroke: #a80;
+    stroke-width: 0.1;
+    fill: #fa0;
+}
+
+/* @title Forest and natural vegetation */
+[LU_TYPE ='Forest And Vegitation' ]{
+  stroke: #080;
+    stroke-width: 0.5;
+    fill: #0d0;
+}
+
+/* @title Range Land */
+[LU_TYPE ='Range Land' ]{
+    stroke: #0a0;
+    stroke-width: 0.5;
+    fill: #bfb;
+}
+
+/* @title Barren Land */
+[LU_TYPE ='Barren Land' ]{
+    stroke: #aa4;
+    stroke-width: 0.5;
+    fill: #ffa;
+}
+
+/* @title Urban area */
+[LU_TYPE ='Urban' ]{
+    stroke: #f99;
+    stroke-width: 0.5;
+    fill: #fcc;
+}
+
+/* @title Water Bodies */
+[LU_TYPE ='Water Bodies' ]{
+    stroke: #66f;
+    stroke-width: 0.5;
+    fill: #ccf;
+}
+
+/* @title Wet Land */
+[LU_TYPE ='Wet Land' ]{
+    stroke: #848;
+    stroke-width: 0.5;
+    fill: #a6a;
+}

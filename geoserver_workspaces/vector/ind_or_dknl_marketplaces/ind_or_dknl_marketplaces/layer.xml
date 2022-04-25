@@ -1,0 +1,16 @@
+<layer>
+  <name>ind_or_dknl_marketplaces</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-7086</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7c12</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-7087</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-10 05:31:34.767 UTC</dateCreated>
+</layer>

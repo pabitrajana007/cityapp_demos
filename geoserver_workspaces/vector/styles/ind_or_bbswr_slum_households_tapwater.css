@@ -1,0 +1,71 @@
+/* @title No water supply */
+[pipe_drinking_water= 'no supply'] {
+  stroke: #000;
+  stroke-width: 0.5;
+  fill: #000;
+  fill-opacity: 1;
+}
+
+/* @title 0.5-1 km */
+[pipe_drinking_water= '0.5 to 1.0km'] {
+  stroke: #a00;
+  stroke-width: 0.5;
+  fill: #b00;
+  fill-opacity: 1;
+}
+
+/* @title Closer than 0.5 km */
+[pipe_drinking_water= 'Less than 0.5km'] {
+  stroke: #a00;
+  stroke-width: 0.5;
+  fill: #f44;
+  fill-opacity: 1;
+}
+
+/* @title No regular water supply */
+[pipe_drinking_water= 'not regular'] {
+  stroke: #a00;
+  stroke-width: 0.5;
+  fill: #fa0;
+  fill-opacity: 1;
+}
+
+/* @title Accessible, once a week */
+[pipe_drinking_water= 'Once a week'] {
+  stroke: #f80;
+  stroke-width: 0.5;
+  fill: #ff0;
+  fill-opacity: 1;
+}
+
+/* @title Accessible, twice a week */
+[pipe_drinking_water= 'twice a week'] {
+  stroke: #f80;
+  stroke-width: 0.5;
+  fill: #ff8;
+  fill-opacity: 1;
+}
+
+/* @title Accessible, less than 1 hour a day */
+[pipe_drinking_water= 'Less than 1 hour daily'] {
+  stroke: #0a0;
+  stroke-width: 0.5;
+  fill: #bfb;
+  fill-opacity: 1;
+}
+
+/* @title Accessible, 1-2 hours a day */
+[pipe_drinking_water= '1-2 hours daily'] {
+  stroke: #0a0;
+  stroke-width: 0.5;
+  fill: #4e4;
+  fill-opacity: 1;
+}
+
+/* @title Accessible, more than 2 hours a day */
+[pipe_drinking_water= 'more than 2 hours daily'] {
+  stroke: #080;
+  stroke-width: 0.5;
+  fill: #080;
+  fill-opacity: 1;
+}

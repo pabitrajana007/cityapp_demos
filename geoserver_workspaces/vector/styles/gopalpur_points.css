@@ -1,0 +1,13 @@
+/* @title Points for  Gopalpur slums */
+
+/* @title  Slums of Gopalpur */
+*{
+  mark: symbol(square),symbol(circle);
+  mark-size: 55,30;
+  	:mark{
+  	stroke: #080,#fff;
+  	stroke-width: 1.2,4;
+  	fill: #afa,#fd0;
+  	fill-opacity: 0.5, 0.5;
+	}
+}

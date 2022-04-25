@@ -1,0 +1,50 @@
+/* @title Dhenkanal educational institutions */
+
+/* @title  Private School */
+[EI_TYPE = 'Private School'] {
+    mark: symbol(circle);
+  	mark-size: 20;
+  	:mark{
+  	stroke: #008;
+  	stroke-width: 1;
+  	fill: #aaf;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title   Private College */
+[EI_TYPE = 'Private College'] {
+    mark: symbol(circle);
+  	mark-size: 20,10;
+  	:mark{
+  	stroke: #008;
+  	stroke-width: 1;
+  	fill: #aaf,#fff;
+  	fill-opacity: 1;
+	}
+}
+ 
+
+/* @title  Public School */
+[EI_TYPE = 'Public School'] {
+    mark: symbol(circle);
+  	mark-size: 20;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 1;
+  	fill: #faa;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title Public College */
+[EI_TYPE = 'Public College'] {
+    mark: symbol(circle);
+  	mark-size: 20,10;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 1;
+  	fill: #faa,#fff;
+  	fill-opacity: 1;
+	}
+}

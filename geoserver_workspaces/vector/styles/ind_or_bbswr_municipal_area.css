@@ -1,0 +1,17 @@
+/* @title Bubaneshwar municipal area with ward numbers */
+* {
+    stroke: #aa00aa;
+    stroke-width: 5;
+  	stroke-opacity:0.4;
+    fill: #f2efde;
+  	fill-opacity: 0.1;
+  	label: [WARD_ID];
+   	font-family: Arial;
+   	font-size: 14px;
+   	font-style: normal;
+   	font-weight: bold;
+   	font-fill: #880066;
+   	label-auto-wrap: 60;
+   	label-max-displacement: 150;
+    
+ }

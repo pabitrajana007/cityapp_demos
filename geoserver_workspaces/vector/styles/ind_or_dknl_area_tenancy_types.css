@@ -1,0 +1,36 @@
+/* @title Dhenkanal tenancy types from dknl revenue plot map  */
+
+
+/* @title Tenable */
+[TEN_TYPE ='Tenable' ]{
+    stroke: #3a0;
+    stroke-width: 0.5;
+    fill: #8f8;
+  	fill-opacity: 0.2;
+}
+
+/* @title Un-Tenable */
+[TEN_TYPE ='Un-Tenable' ]{
+    stroke: #a00;
+    stroke-width: 1;
+    fill: #f88;
+    fill-opacity: 0.2;
+
+}
+/* @title Conversion needed */
+[TEN_TYPE ='Conversion Needed' ]{
+    stroke: #a0a;
+    stroke-width: 4;
+    fill: #faf;
+    fill-opacity: 0.1;
+
+}
+
+/* @title No data */
+[TEN_TYPE = 'no data' ]{
+    stroke: #000;
+    stroke-width: 1;
+    fill: #f8f8f8;
+    fill-opacity: 0.1;
+
+}

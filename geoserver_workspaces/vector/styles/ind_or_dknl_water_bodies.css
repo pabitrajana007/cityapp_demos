@@ -1,0 +1,15 @@
+/* @title Dhenkanak water bodies */
+
+/* @title Canal */
+[WB_TYPE ='Canal' ]{
+    stroke: #66a;
+    stroke-width: 0.5;
+    fill: #99f;
+}
+
+/* @title Pond */
+[WB_TYPE ='Pond' ]{
+    stroke: #66a;
+    stroke-width: 0.5;
+    fill: #ddf;
+}

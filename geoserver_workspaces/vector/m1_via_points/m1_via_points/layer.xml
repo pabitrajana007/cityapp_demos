@@ -1,0 +1,16 @@
+<layer>
+  <name>m1_via_points</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-5ad5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-53a0964:16fc2624139:-7ff4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-5ad6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-14 04:10:33.393 UTC</dateCreated>
+</layer>

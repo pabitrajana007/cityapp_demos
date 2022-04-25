@@ -1,0 +1,6 @@
+/* @title Bubaneshwar municipal area */
+* {
+    stroke: #decaa0;
+    stroke-width: 6;
+    fill: #fffbf5;
+}

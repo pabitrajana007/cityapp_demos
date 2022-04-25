@@ -1,0 +1,17 @@
+<layer>
+  <name>module_10_calculated_roads</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-589e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-414b24b:174178f67ea:-7aa8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-589f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-14 06:44:40.652 UTC</dateCreated>
+  <dateModified>2021-06-14 06:53:41.497 UTC</dateModified>
+</layer>

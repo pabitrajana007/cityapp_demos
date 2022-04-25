@@ -1,0 +1,17 @@
+<layer>
+  <name>ind_or_bbswr_slum_male_population_households</name>
+  <id>LayerInfoImpl-72b1cc0:179ccb4a7d6:-693f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7078b211:179a97428e6:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72b1cc0:179ccb4a7d6:-6940</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-12 06:10:49.170 UTC</dateCreated>
+  <dateModified>2021-06-12 06:12:20.177 UTC</dateModified>
+</layer>

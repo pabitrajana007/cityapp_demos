@@ -1,0 +1,14 @@
+/* @title Dhenkanal tenancy types from dknl revenue plot map  */
+
+
+/* @title Forest lands */
+[KISSAM ='Janggal' OR KISSAM ='Janggal Dui' OR KISSAM ='Jungle']{
+   fill: symbol('shape://slash');
+   fill-size: 8;
+   stroke: #8e0;
+  stroke-width: 2;
+	}
+	:fill {
+   	stroke: green;
+      
+	}

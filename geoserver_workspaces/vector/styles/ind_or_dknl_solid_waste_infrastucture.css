@@ -1,0 +1,26 @@
+/* @title Dhenkanal  solid waste infrastucture */
+
+/* @title  Dustbin */
+[SWI_TYPE = 'Dustbin'] {
+  mark: symbol(triangle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #088;
+  	stroke-width: 1;
+  	fill: #6bb;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Open Garbage */
+[SWI_TYPE = 'Open Garbage'] {
+  mark: symbol(triangle);
+  mark-size: 15;
+  	:mark{
+  	stroke: #088;
+  	stroke-width: 1;
+  	fill: #eff;
+  	fill-opacity: 1;
+	}
+}

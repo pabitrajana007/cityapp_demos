@@ -1,0 +1,61 @@
+/* Odisha estimated groundwater level*/
+/* @title 0 - -1m */
+[water_level < 0] [water_level > -100 ]  {
+  fill: #00c;
+  fill-opacity: 0.6;
+}
+
+/* @title -1m - -2m */
+[water_level < -100] [water_level > -200 ]  {
+  fill: #b0b;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -2m - -3m */
+[water_level < -200] [water_level > -300 ]  {
+  fill: #f5f;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -3m - -4m */
+[water_level < -300] [water_level > -400 ]  {
+  fill: #fa0;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -4m - -5m */
+[water_level < -400] [water_level > -500 ]  {
+  fill: #fe0;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -5m - -6m */
+[water_level < -500] [water_level > -600 ]  {
+  fill: #ff0;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -6m - -7m */
+[water_level < -600] [water_level > -700 ]  {
+  fill: #8f5;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -7m - -8m */
+[water_level < -700] [water_level > -800 ]  {
+  fill: #6d0;
+  fill-opacity: 0.6;
+}
+
+
+/* @title -8m -  */
+[water_level < -800]   {
+  fill: #080;
+  fill-opacity: 0.6;
+}

@@ -1,0 +1,38 @@
+/* @title Water Supply Infrastructure */
+
+/* @title  Hand Pump */
+[DWS_TYPE = 'Hand Pump'] {
+  mark: symbol(diamond);
+  mark-size: 15;
+  	:mark{
+  	stroke: #880;
+  	stroke-width: 1;
+  	fill: #ff8;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title  Public Open Well */
+[DWS_TYPE = 'Public Open Well'] {
+  mark: symbol(diamond);
+  mark-size: 15;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 1;
+  	fill: #f66;
+  	fill-opacity: 1;
+	}
+}
+
+/* @title  Temp. Water Tank */
+[DWS_TYPE = 'Temp. Water Tank'] {
+  mark: symbol(diamond);
+  mark-size: 15;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 1;
+  	fill: #f8f;
+  	fill-opacity: 1;
+	}
+}

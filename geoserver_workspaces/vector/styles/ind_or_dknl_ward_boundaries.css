@@ -1,0 +1,17 @@
+/* @title Dhenkanal wards */
+* {
+    stroke: #aa00aa;
+    stroke-width: 0.5,10;
+  	stroke-opacity:1,0.1;
+    fill: #f2efde;
+  	fill-opacity: 0.1;
+  	label: [WARD_NAME];
+   	font-family: Arial;
+   	font-size: 14px;
+   	font-style: normal;
+   	font-weight: bold;
+   	font-fill: #880066;
+   	label-auto-wrap: 60;
+   	label-max-displacement: 150;
+    
+ }

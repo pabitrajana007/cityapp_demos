@@ -1,0 +1,112 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--4072d3e9:17712722ddb:-6f31</id>
+  <name>odisha_dem</name>
+  <mode>SINGLE</mode>
+  <title>odisha_dem</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f4c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f32</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f1a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6f17</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e8e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e8b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e6d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e6a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e70</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e31</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e2e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e2b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e28</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e25</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4072d3e9:17712722ddb:-6e22</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4072d3e9:17712722ddb:-764e</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>79.99986111111112</minx>
+    <maxx>82.0001388888889</maxx>
+    <miny>16.999861111111112</miny>
+    <maxy>18.00013888888889</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <dateCreated>2021-01-26 01:18:10.779 UTC</dateCreated>
+  <dateModified>2021-01-26 05:09:12.893 UTC</dateModified>
+</layerGroup>
